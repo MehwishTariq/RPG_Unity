@@ -10,7 +10,8 @@ Assets > Creator kit-RPG > Scenes > FirstScene
 
 The assets used in creating the scene were provided in the folder by the tutorial.
 
-The project folder named "RPG" contains the executable file, the folder can be unzipped anywhere on your computer and you will be able to play the game with the scene I created.
+# Folder named 'RPG'
+This project folder contains the executable file, the folder can be unzipped anywhere on your computer and you will be able to play the game with the scene I created.
 
 # Controls:
 
