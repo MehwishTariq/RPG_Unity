@@ -11,8 +11,7 @@ Assets > Creator kit-RPG > Scenes > FirstScene
 The assets used in creating the scene were provided in the folder by the tutorial.
 
 # Folder named 'RPG'
-This project folder contains the executable file, the folder can be unzipped anywhere on your computer and you will be able to play the game with the scene I created.
-Don't forget to cut and paste this folder out from your project folder after cloning the repo. As this folder has no relation with the project.
+This project folder is a build folder contains the executable file, the folder can be unzipped anywhere on your computer and you will be able to play the game with the scene I created.
 
 # About The Game
 There are total 4 quests in which 3 are visible and one is a secret quest which will open when you do a specific quest.
